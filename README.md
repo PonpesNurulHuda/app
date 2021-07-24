@@ -8,6 +8,7 @@ Admin Area
 - Master Data
 - Ferifly III
 - Syahriyyah
+- Sistem Informasi Akademik
 - Admin Wordpress
 - Notion
 - Documentation
